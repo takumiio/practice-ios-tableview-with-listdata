@@ -1,0 +1,6 @@
+framework module Pods_practice_ios_tableview_with_listdata {
+  umbrella header "Pods-practice-ios-tableview-with-listdata-umbrella.h"
+
+  export *
+  module * { export * }
+}
